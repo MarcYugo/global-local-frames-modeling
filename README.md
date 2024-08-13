@@ -35,7 +35,7 @@ bash run_editing.sh
     
     <table class="center">
     <tr>
-    <td><video src="[./results/a_girl_play_tennis1_25fps.mp4](https://github.com/MarcYugo/global-local-frames-modeling/blob/main/results/a_girl_play_tennis1_25fps.mp4)" autoplay></td>
+    <td><video src="https://github.com/MarcYugo/global-local-frames-modeling/blob/main/results/a_girl_play_tennis1_25fps.mp4" autoplay></td>
     </tr>
     </table>
     
