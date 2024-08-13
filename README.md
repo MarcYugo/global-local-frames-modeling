@@ -48,11 +48,11 @@ bash run_editing.sh
 
     Total frames: 400, batch size for inversion: 100
 
-    <center>
-    <video id="video" controls="" preload="none" poster="封面">
-    <source id="mp4" src="./results/a_woman_running_20fps.mp4" type="video/mp4">
-    </video>
-    </center>
+    <table class="center">
+    <tr>
+    <td><video src="https://github.com/user-attachments/assets/be603199-dd3c-4b29-98e2-f4686e1214bf" autoplay></td>
+    </tr>
+    </table>
 
 + Example 3
 
@@ -62,11 +62,11 @@ bash run_editing.sh
 
     Total frames: 300, batch size for inversion: 100
 
-    <center>
-    <video id="video" controls="" preload="none" poster="封面">
-    <source id="mp4" src="./results/a_man_running_25fps.mp4" type="video/mp4">
-    </video>
-    </center>
+    <table class="center">
+    <tr>
+    <td><video src="https://github.com/user-attachments/assets/9e5ebe45-8218-4c6f-9db2-a8eb8780a39e" autoplay></td>
+    </tr>
+    </table>
 
 + Example 4
 
@@ -76,13 +76,13 @@ bash run_editing.sh
 
     Total frames: 300, batch size for inversion: 100
 
-    <center>
-    <video id="video" controls="" preload="none" poster="封面">
-    <source id="mp4" src="./results/snow_house_20fps.mp4" type="video/mp4">
-    </video>
-    </center>
+    <table class="center">
+    <tr>
+    <td><video src="https://github.com/user-attachments/assets/1b475c98-06bd-4ab1-afaf-ec424f94fb78" autoplay></td>
+    </tr>
+    </table>
 
-+ Example 4
++ Example 5
 
     Inversion prompt: A woman is playing with a siberian husky. Tattooed arms.
 
@@ -90,11 +90,11 @@ bash run_editing.sh
 
     Total frames: 400, batch size for inversion: 100
 
-    <center>
-    <video id="video" controls="" preload="none" poster="封面">
-    <source id="mp4" src="./results/a_dog_play_20fps.mp4" type="video/mp4">
-    </video>
-    </center>
+    <table class="center">
+    <tr>
+    <td><video src="https://github.com/user-attachments/assets/154a59fb-80b0-4045-9e86-880c6b0a84c3" autoplay></td>
+    </tr>
+    </table>
 
 ### Acknowledgment
 
