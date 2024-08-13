@@ -1,0 +1,1 @@
+python PSNR.py videos/video_reconstruct.mp4 videos/source_video.mp4 --n_frames 400 --store_psnr_every_frame ./psnr_fold/type7_k1_64_k2_448_a_1.0/

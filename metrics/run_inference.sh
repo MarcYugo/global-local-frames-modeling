@@ -1,0 +1,1 @@
+python inference_video_back.py --name test --stage things --restore_ckpt ckpts/MemFlowNet_things.pth --video_path video/video_name.mp4 --save_path out_flow/video_optical_flow_back.pt

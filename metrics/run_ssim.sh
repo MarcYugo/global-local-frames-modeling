@@ -1,0 +1,1 @@
+python SSIM.py videos/video_reconstruct.mp4 videos/source_video.mp4 --n_frames 400 --store_ssim_every_frame ./ssim_fold/type7_k1_64_k2_448_a_1.0/
