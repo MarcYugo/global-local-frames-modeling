@@ -33,9 +33,11 @@ bash run_editing.sh
     Total frames: 200, batch size for inversion: 100
 
     
-    <video id="video" controls="" preload="none" poster="封面">
-    <source id="mp4" src="./results/a_girl_play_tennis1_25fps.mp4" type="video/mp4">
-    </video>
+    <table class="center">
+    <tr>
+    <td><video src="./results/a_girl_play_tennis1_25fps.mp4" autoplay></td>
+    </tr>
+    </table>
     
 
 + Example 2
