@@ -1,0 +1,34 @@
+# general
+seed: 1
+device: 'cuda'
+output_path: '/hy-tmp/TF_results_glfm'
+
+# data
+data_path: 'data/a_woman_running2.mp4'
+width: 512
+height: 512
+latents_path: '/hy-tmp/Inv_Latents/base_glfm' # should be the same as 'save_dir' arg used in preprocess
+n_inversion_steps: 50 # for retrieving the latents of the inversion
+n_frames: 400
+inversion_prompt: "A woman is running"
+# frames of a clip
+n_clip_frames: 1
+# number of basisi vectors of global frames modeling, modulation factor alpha
+gfm_k1: 64
+gfm_alpha: 1.0
+# number of basisi vectors of local frames modeling, modulation factor beta
+lfm_k2: 448
+lfm_beta: 1.0
+
+# diffusion
+sd_version: '1.5'
+guidance_scale: 7.5
+n_timesteps: 50
+prompt: "Black widow is running"
+negative_prompt: "ugly, blurry, low res, unrealistic, unaesthetic"
+batch_size: 100
+flow_batch_size: 20
+
+# pnp params -- injection thresholds ∈ [0, 1]
+pnp_attn_t: 0.5
+pnp_f_t: 0.8
