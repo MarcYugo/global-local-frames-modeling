@@ -35,7 +35,7 @@ bash run_editing.sh
     
     <table class="center">
     <tr>
-    <td><video src="https://github.com/user-attachments/assets/0ef1c044-6ae6-42e7-88db-0b222e850351" autoplay></td>
+    <td><video src="https://github.com/user-attachments/assets/1840b450-5266-4cca-983b-9f70ab2f4700" autoplay></td>
     </tr>
     </table>
     
