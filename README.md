@@ -64,7 +64,7 @@ bash run_editing.sh
 
     <table class="center">
     <tr>
-    <td><video src="https://github.com/user-attachments/assets/9e5ebe45-8218-4c6f-9db2-a8eb8780a39e" autoplay></td>
+    <td><video src="https://github.com/user-attachments/assets/14cac4d5-75b5-4ecd-8fb2-3b3e1217fe20" autoplay></td>
     </tr>
     </table>
 
