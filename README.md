@@ -11,7 +11,7 @@
     conda activate glfm 
     ```
 
-+ Pre-trained models
++ Download pre-trained models
     ```bash
     python install.py --models_dir /your/path/to/models/
     ```
