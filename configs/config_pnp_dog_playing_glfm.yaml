@@ -9,7 +9,7 @@ width: 512
 height: 512
 latents_path: '/hy-tmp/Inv_Latents/base_glfm/' # should be the same as 'save_dir' arg used in preprocess
 n_inversion_steps: 50 # for retrieving the latents of the inversion
-n_frames: 300
+n_frames: 400
 inversion_prompt: 'A woman is playing with a siberian husky. Tattooed arms.'
 # frames of a clip
 n_clip_frames: 2
