@@ -17,7 +17,7 @@
     ```
 ### Video Editing
 
-You can use this shell scripts to edit your videos.
+You can use this shell script to edit your videos.
 ```bash
 bash run_editing.sh
 ```
