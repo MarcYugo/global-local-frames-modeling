@@ -10,7 +10,7 @@ height: 512
 latents_path: '/hy-tmp/Inv_Latents/base_glfm' # should be the same as 'save_dir' arg used in preprocess
 n_inversion_steps: 50 # for retrieving the latents of the inversion
 n_frames: 400
-inversion_prompt: 'A man is running' 
+inversion_prompt: 'A man is running on the beach' 
 # frames of a clip
 n_clip_frames: 1
 # number of basisi vectors of global frames modeling, modulation factor alpha
@@ -24,7 +24,7 @@ lfm_beta: 1.0
 sd_version: '1.5'
 guidance_scale: 7.5
 n_timesteps: 50
-prompt: "Bat man is running"
+prompt: "Bat man is running on the beach"
 negative_prompt: "ugly, blurry, low res, unrealistic, unaesthetic"
 batch_size: 100
 flow_batch_size: 20
