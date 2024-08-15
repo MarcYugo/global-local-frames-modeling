@@ -24,3 +24,9 @@ Files *run_inference.sh*, *inference_video.py* and *inference_video_back.py* sho
 ```bash
 bash run_inference.sh
 ```
+
+#### Acknowledgment
+
+The implementation of SSIM refers to [pytorch-ssim](https://github.com/Po-Hsun-Su/pytorch-ssim).
+
+The calculation of PSNR refers to [pytorch-tools](https://github.com/bonlime/pytorch-tools/blob/master/pytorch_tools/metrics/psnr.py).
