@@ -15,6 +15,7 @@
     ```bash
     python install.py --models_dir /your/path/to/models/
     ```
+    if it doesn't work, you also can download them from [here](https://drive.google.com/file/d/10ey4rqj52wB3NDphH32-tR6it-VLdTLM/view?usp=sharing).
 ### Video Editing
 
 You can use this shell script to edit your videos.
