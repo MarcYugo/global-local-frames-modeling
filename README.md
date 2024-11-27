@@ -2,6 +2,10 @@
 
 |[ paper ]()|
 
+Zewen Yu, Pengchong Qiao, Jie Chen, Xiaoqin Zhang
+
+This project's code is intended for submission to Neurocomputing.
+
 ### Environment Deployment
 
 + Anaconda environment
