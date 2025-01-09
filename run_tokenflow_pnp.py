@@ -188,7 +188,7 @@ class TokenFlow(nn.Module):
                                    range(self.config["n_frames"])]
         frames = [Image.open(paths[idx]).convert('RGB') for idx in range(self.config["n_frames"])]
         if frames[0].size[0] == frames[0].size[1]:
-            frames = [frame.resize((512, 512), resample=Image.Resampling.LANCZOS) for frame in frames]
+            frames = [frame.resize((self.config["width"], self.config["height"]), resample=Image.Resampling.LANCZOS) for frame in frames]
         frames = torch.stack([T.ToTensor()(frame) for frame in frames]).to(torch.float16).to(self.device)
         save_video(frames, f'{self.config["output_path"]}/input_fps10.mp4', fps=10)
         #save_video(frames, f'{self.config["output_path"]}/input_fps20.mp4', fps=20)
