@@ -1,0 +1,1 @@
+python video_warpping_error.py --video=test.mp4 --ckpt_path=test.pth --device=cuda
