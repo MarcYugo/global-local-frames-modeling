@@ -31,7 +31,9 @@ bash run_e_warp.sh
 ```
 
 #### Fliker value
-
+```bash
+bash run_flicker.sh
+```
 
 #### Acknowledgment
 
