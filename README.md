@@ -1,6 +1,6 @@
 ## Joint Global-Local Frames Modeling to Enhance Semantic Alignment for Zero-shot Long Video Editing
 
-|[ paper ]()|
+|[ paper ](https://doi.org/10.1016/j.neucom.2025.130836)|
 
 Zewen Yu, Pengchong Qiao, Jie Chen, Xiaoqin Zhang
 
